@@ -1,3 +1,32 @@
 #result {
   display: none;
 }
+
+body {
+  margin: 5vh 10vw;
+  font-family: Verdana;
+  background-image: url("img/pink-dots.jpg");
+}
+
+h1 {
+  	color: #483D8B;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+
+p.slate {
+  color: #483D8B;
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul {
+  color: #483D8B;
+  padding-top: 20px;
+}
+
+#output {
+  color: #9400D3;
+  padding-top: 30px;
+  font-size: large;
+}
